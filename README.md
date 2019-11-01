@@ -40,7 +40,7 @@ https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pix
 </ul>
 
 
-<h4>A brief “every 30 min” diary as explained in the slides <g-emoji class="g-emoji" alias="notebook_with_decorative_cover" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d4.png">📔</g-emoji> </h4>
+<h2>A brief “every 30 min” diary as explained in the slides <g-emoji class="g-emoji" alias="notebook_with_decorative_cover" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d4.png">📔</g-emoji> </h2>
 
 <ul>
  <li><strong>30 minutes</strong>: reading and understanding the exercise. Downloading the image and setting up a project + github</li>
