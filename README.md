@@ -42,7 +42,7 @@ https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pix
 <h4>A brief “every 30 min” diary as explained in the slides (this is more frequent than one would normally do, and is just meant as part of the exercise)</h4>
 
 <ul>
- <li>30 minutes: reading and understanding the exercise. Downloading the image and setting up a project + github</li>
+ <li><strong>30 minutes</strong>: reading and understanding the exercise. Downloading the image and setting up a project + github</li>
  <li>1 hour later: we did some research in order to understand steganography and finding a java library for that </li>
  <li>1:30: we started implementing the code for steganography and the image provided.</li>
  <li>2 hours : we ran into a problem, that we tried for 30 minutes to solve.</li>
