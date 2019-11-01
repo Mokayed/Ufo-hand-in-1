@@ -55,8 +55,8 @@ https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pix
 <h2>Setup the project <g-emoji class="g-emoji" alias="hammer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f528.png">🔨</g-emoji> </h2>
 
 <ul>
- <li><strong>Clone the repo</li>
- <li><strong>Open the code in you favorite "java" IDE </li>
- <li><strong>Click Run</li>
+ <li>1-Clone the repo</li>
+ <li>2-Open the code in you favorite "java" IDE </li>
+ <li><3-Click Run</li>
 </ul>
 
