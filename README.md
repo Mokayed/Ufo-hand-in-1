@@ -31,7 +31,7 @@ https://www.geeksforgeeks.org/image-processing-java-set-2-get-set-pixels/  <br>
 https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pixel-according-to-my-message <br>
 </p>
 
-<h2>A list of the 3 most biggest stumbling blocks you came across and your reflection on why they were problematic (did you misunderstand something, was some of the info you found wrong, did you miss a detail, …)</h2>
+<h2>A list of the 3 most biggest stumbling blocks you came across and your reflection on why they were problematic <g-emoji class="g-emoji" alias="interrobang" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2049.png">⁉️</g-emoji> </h2>
 
 <ul>
  <li>after we found the correct color of the pixel (red which is (0,16-23,0)), we did not know where to go from there. The documentation we googled after that was not very helpful </li>
@@ -40,7 +40,7 @@ https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pix
 </ul>
 
 
-<h4>A brief “every 30 min” diary as explained in the slides (this is more frequent than one would normally do, and is just meant as part of the exercise)</h4>
+<h4>A brief “every 30 min” diary as explained in the slides <g-emoji class="g-emoji" alias="notebook_with_decorative_cover" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d4.png">📔</g-emoji> </h4>
 
 <ul>
  <li><strong>30 minutes</strong>: reading and understanding the exercise. Downloading the image and setting up a project + github</li>
