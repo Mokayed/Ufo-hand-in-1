@@ -3,8 +3,8 @@
 <h4>A list of all Google queries you made to solve it, and timestamps (just copy it from the browser history)</h4>
 
 <p>
-read message from image Steganography java /n
-Steganography
+read message from image Steganography java <br>
+Steganography<br>
 Steganography read all red value 
 steganography messages hidden in pixel jav
 java code for steganography using ls
