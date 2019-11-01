@@ -57,6 +57,6 @@ https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pix
 <ul>
  <li>1-Clone the repo</li>
  <li>2-Open the code in you favorite "java" IDE </li>
- <li><3-Click Run</li>
+ <li>3-Click Run</li>
 </ul>
 
