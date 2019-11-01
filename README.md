@@ -2,7 +2,8 @@
 
 <h4>A list of all Google queries you made to solve it, and timestamps (just copy it from the browser history) <g-emoji class="g-emoji" alias="mag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png">🔍</g-emoji></h4>
 
-<p>
+
+ <ul>
 read message from image Steganography java <br>
 Steganography<br>
 Steganography read all red value <br>
@@ -17,7 +18,7 @@ buffered image java
 create buffered image java
 find hidden message in image java
 steongraphy find message java
-</p>
+  </ul>
 
 <h4>A list all pages you visited to solve it (just copy it from the browser history)</h4>
 
