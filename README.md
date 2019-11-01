@@ -43,9 +43,9 @@ https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pix
 
 <ul>
  <li><strong>30 minutes</strong>: reading and understanding the exercise. Downloading the image and setting up a project + github</li>
- <li>1 hour later: we did some research in order to understand steganography and finding a java library for that </li>
- <li>1:30: we started implementing the code for steganography and the image provided.</li>
- <li>2 hours : we ran into a problem, that we tried for 30 minutes to solve.</li>
- <li>2:30 : we made a readme on our repository that described our process</li>
+ <li><strong>1 hour later</strong>: we did some research in order to understand steganography and finding a java library for that </li>
+ <li><strong>1:30</strong>: we started implementing the code for steganography and the image provided.</li>
+ <li><strong>2 hours</strong> : we ran into a problem, that we tried for 30 minutes to solve.</li>
+ <li><strong> 2:30 :</strong> we made a readme on our repository that described our process</li>
 </ul>
 
