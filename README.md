@@ -1,6 +1,6 @@
 # Ufo-hand-in-1 <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 
-<h4>A list of all Google queries you made to solve it, and timestamps (just copy it from the browser history)</h4>
+<h4>A list of all Google queries you made to solve it, and timestamps (just copy it from the browser history) <g-emoji class="g-emoji" alias="mag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png">🔍</g-emoji></h4>
 
 <p>
 read message from image Steganography java <br>
