@@ -4,20 +4,20 @@
 
 
  <ul>
-read message from image Steganography java <br>
-Steganography<br>
-Steganography read all red value <br>
-steganography messages hidden in pixel java<br>
-java code for steganography using ls<br>
-steganography java<br>
-steganography java library<br>
-stenography image
-get ascii mesage from buffered image
-buffered image java stackoverflow
-buffered image java
-create buffered image java
-find hidden message in image java
-steongraphy find message java
+ <li>read message from image Steganography java</li>
+ <li>Steganography</li>
+ <li>Steganography read all red value</li>
+ <li>steganography messages hidden in pixel java</li>
+ <li>java code for steganography using ls</li>
+ <li>steganography java</li>
+ <li>steganography java library</li>
+ <li>stenography image</li>
+ <li>get ascii mesage from buffered image</li>
+ <li>buffered image java stackoverflow</li>
+ <li>buffered image java</li>
+ <li>create buffered image java</li>
+ <li>find hidden message in image java</li>
+ <li>steongraphy find message java</li>
   </ul>
 
 <h2>A list all pages you visited to solve it (just copy it from the browser history)</h2>
