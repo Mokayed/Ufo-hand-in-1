@@ -23,9 +23,9 @@ steongraphy find message java
 
 <p>
 https://towardsdatascience.com/steganography-hiding-an-image-inside-another-77ca66b2acb1
- https://docs.oracle.com/javase/7/docs/api/java/awt/image/BufferedImage.html#getRGB(int,%20int) 
- https://www.programcreek.com/java-api-examples/?code=lemon65%2FCrypto%2FCrypto-master%2Fsrc%2FSteganography.java#
-  https://www.dreamincode.net/forums/topic/27950-steganography/
+https://docs.oracle.com/javase/7/docs/api/java/awt/image/BufferedImage.html#getRGB(int,%20int) 
+https://www.programcreek.com/java-api-examples/?code=lemon65%2FCrypto%2FCrypto-master%2Fsrc%2FSteganography.java#
+https://www.dreamincode.net/forums/topic/27950-steganography/
 https://www.geeksforgeeks.org/image-processing-java-set-2-get-set-pixels/  
 https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pixel-according-to-my-message
 </p>
@@ -42,10 +42,10 @@ https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pix
 <h4>A brief “every 30 min” diary as explained in the slides (this is more frequent than one would normally do, and is just meant as part of the exercise)</h4>
 
 <ul>
- <li>first 30 minutes: reading and understanding the exercise. Downloading the image and setting up a project + github</li>
- <li>30 minutes later: we did some research in order to understand steganography and finding a java library for that </li>
- <li>we started implementing the code for steganography and the image provided.</li>
- <li>we ran into a problem, that we tried for 30 minutes to solve.</li>
- <li>we made a readme on our repository that described our process</li>
+ <li>30 minutes: reading and understanding the exercise. Downloading the image and setting up a project + github</li>
+ <li>1 hour later: we did some research in order to understand steganography and finding a java library for that </li>
+ <li>1:30: we started implementing the code for steganography and the image provided.</li>
+ <li>2 hours : we ran into a problem, that we tried for 30 minutes to solve.</li>
+ <li>2:30 : we made a readme on our repository that described our process</li>
 </ul>
 
