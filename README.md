@@ -3,7 +3,7 @@
 <h4>A list of all Google queries you made to solve it, and timestamps (just copy it from the browser history)</h4>
 
 <p>
-read message from image Steganography java
+read message from image Steganography java /n
 Steganography
 Steganography read all red value 
 steganography messages hidden in pixel jav
