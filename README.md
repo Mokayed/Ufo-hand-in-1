@@ -22,12 +22,12 @@ steongraphy find message java
 <h4>A list all pages you visited to solve it (just copy it from the browser history)</h4>
 
 <p>
-https://towardsdatascience.com/steganography-hiding-an-image-inside-another-77ca66b2acb1
-https://docs.oracle.com/javase/7/docs/api/java/awt/image/BufferedImage.html#getRGB(int,%20int) 
-https://www.programcreek.com/java-api-examples/?code=lemon65%2FCrypto%2FCrypto-master%2Fsrc%2FSteganography.java#
-https://www.dreamincode.net/forums/topic/27950-steganography/
-https://www.geeksforgeeks.org/image-processing-java-set-2-get-set-pixels/  
-https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pixel-according-to-my-message
+https://towardsdatascience.com/steganography-hiding-an-image-inside-another-77ca66b2acb1 <br>
+https://docs.oracle.com/javase/7/docs/api/java/awt/image/BufferedImage.html#getRGB(int,%20int)  <br>
+https://www.programcreek.com/java-api-examples/?code=lemon65%2FCrypto%2FCrypto-master%2Fsrc%2FSteganography.java# <br>
+https://www.dreamincode.net/forums/topic/27950-steganography/ <br>
+https://www.geeksforgeeks.org/image-processing-java-set-2-get-set-pixels/  <br>  
+https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pixel-according-to-my-message <br>
 </p>
 
 <h4>A list of the 3 most biggest stumbling blocks you came across and your reflection on why they were problematic (did you misunderstand something, was some of the info you found wrong, did you miss a detail, …)</h4>
