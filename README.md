@@ -1,6 +1,6 @@
 <h1 align="center">  Ufo-hand-in-1 <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> </h1>
 
-<h2>A list of all Google queries you made to solve it, and timestamps<g-emoji class="g-emoji" alias="mag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png">🔍</g-emoji></h2>
+<h2>A list of all Google queries we made to solve it, and timestamps<g-emoji class="g-emoji" alias="mag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png">🔍</g-emoji></h2>
 
 
  <ul>
@@ -20,7 +20,7 @@
  <li>steongraphy find message java</li>
   </ul>
 
-<h2>A list all pages you visited to solve it (just copy it from the browser history) <span class="emoji">🔗</span></h2>
+<h2>A list all pages we visited to solve it <span class="emoji">🔗</span></h2>
 
 <p>
 https://towardsdatascience.com/steganography-hiding-an-image-inside-another-77ca66b2acb1 <br>
@@ -31,7 +31,7 @@ https://www.geeksforgeeks.org/image-processing-java-set-2-get-set-pixels/  <br>
 https://stackoverflow.com/questions/29055817/how-do-i-change-the-lsb-of-each-pixel-according-to-my-message <br>
 </p>
 
-<h2>A list of the 3 most biggest stumbling blocks you came across and your reflection on why they were problematic <g-emoji class="g-emoji" alias="interrobang" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2049.png">⁉️</g-emoji> </h2>
+<h2>A list of the 3 most biggest stumbling blocks we came across and your reflection on why they were problematic <g-emoji class="g-emoji" alias="interrobang" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2049.png">⁉️</g-emoji> </h2>
 
 <ul>
  <li>after we found the correct color of the pixel (red which is (0,16-23,0)), we did not know where to go from there. The documentation we googled after that was not very helpful </li>
